@@ -4,7 +4,7 @@
     var W;
     var canvas;
     var ctx;
-    var particleCount = 750;
+    var particleCount = 1050;
     var particles = [];
     var colorArray = ["#F92672","#66D9EF", "#A6E22E", "#FD971F", "#FFF"];
 
